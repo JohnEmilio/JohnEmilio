@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Emilio</h1>
-<h3 align="center">A passionate full-stack software engineer!</h3>
+<h1 align="center">Hi 👋, I'm John</h1>
+<h3 align="center">A full-stack software engineer!</h3>
 
 - 🔭 I’m currently working on **workout-wingman**
 
