@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jl.emilio1@gmail.com**
 
-- ⚡ Fun fact **I am a registered nurse and spent over 5 years working in the ER. Also I love to lift weights and bass fish.**
+- ⚡ Fun fact **I am a registered nurse and spent over 5 years working in the ER. I love to lift weights and bass fish.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
