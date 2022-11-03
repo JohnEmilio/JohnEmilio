@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A full-stack software engineer!</h3>
 
-- 🔭 I’m currently working on **workout-wingman**
+- 🔭 I’m currently working on **Workout Wingman** and **Mix It Up Cocktails**
 
 - 🌱 I’m currently working with **React, Node, and Express**
 
